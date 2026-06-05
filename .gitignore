@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Banco SQLite
+db.sqlite3
+
+# Arquivos de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# Arquivos estáticos coletados
+static_files/
+
+# Logs
+*.log
